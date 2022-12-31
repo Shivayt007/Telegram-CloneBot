@@ -4,13 +4,13 @@ from distutils.util import strtobool as stb
 
 # --------------------------------------
 BOT_TOKEN = "5382196895:AAF9LkZJPqZowRUUzFGIc6rUCy9X18epEz8"
-GDRIVE_FOLDER_ID = ""
+GDRIVE_FOLDER_ID = "1qfNMrt6AjD4q7HO9UQDJy2eZkI2V0tOf"
 # Default folder id.
 OWNER_ID = 957158815
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [-1001517401030]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://dukelover.trvpn.workers.dev/0:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
